@@ -1,0 +1,131 @@
+.btn__glav {
+    height: 50px;
+    width: 300px;
+    background-color:#1AB9EB;
+    border: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
+.btn__AC {
+    height: 50px;
+    width: 220px;
+    background-color: rgb(154, 212, 230);
+    border: none;
+    color: blue;
+}
+
+.btn__delen {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(154, 212, 230);
+    border: none;
+    color: blue;
+}
+
+.btn__7 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__8 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__9 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__umnz {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(154, 212, 230);
+    border: none;
+    color: blue;
+}
+
+.btn__4 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__5 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__6 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__min {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(154, 212, 230);
+    border: none;
+    color: blue;
+}
+
+.btn__1 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__2 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__3 {
+    height: 50px;
+    width: 70px;
+    border: none;
+    color: blue;
+}
+
+.btn__plus {
+    height: 50px;
+    width: 75px;
+    background-color: rgb(154, 212, 230);
+    border: none;
+    color: blue;
+}
+
+.btn__0 {
+    height: 50px;
+    width: 145px;
+    border: none;
+    color: blue;
+}
+
+.btn__ravenstvo {
+    height: 50px;
+    width: 145px;
+    background: linear-gradient(90deg, #1AB9EB 3.2%, #093E70 100%);
+    border: none;
+    color: white;
+}
+
